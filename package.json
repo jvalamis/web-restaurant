@@ -1,0 +1,20 @@
+{
+  "name": "web-restaurant",
+  "version": "1.0.0",
+  "description": "a coding assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvalamis/web-restaurant.git"
+  },
+  "author": "jvalamis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvalamis/web-restaurant/issues"
+  },
+  "homepage": "https://github.com/jvalamis/web-restaurant#readme"
+}
