@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jvalamis/web-restaurant/issues"
   },
-  "homepage": "https://github.com/jvalamis/web-restaurant#readme"
+  "homepage": "https://github.com/jvalamis/web-restaurant#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
 }
