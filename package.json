@@ -2,11 +2,12 @@
   "name": "web-restaurant",
   "version": "1.0.0",
   "description": "a coding assessment",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "test",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.mjs"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jvalamis/web-restaurant.git"
