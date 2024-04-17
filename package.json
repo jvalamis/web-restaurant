@@ -1,0 +1,31 @@
+{
+  "name": "web-restaurant",
+  "version": "1.0.0",
+  "description": "a coding assessment",
+  "main": "index.ts",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "dev": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvalamis/web-restaurant.git"
+  },
+  "author": "jvalamis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvalamis/web-restaurant/issues"
+  },
+  "homepage": "https://github.com/jvalamis/web-restaurant#readme",
+  "dependencies": {
+    "@apollo/server": "^4.10.3",
+    "graphql-tag": "^2.12.6"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "transform": {}
+  }
+}
